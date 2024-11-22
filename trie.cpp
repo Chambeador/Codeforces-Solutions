@@ -37,8 +37,12 @@ bool existe(string &s){
 
 
 void solve(){
-     trie.pb(item());
-     //mete un item vacio
+     trie.push_back(item());
+     string s1 = "hola";
+     insertar(s1);
+     string s2 = "hola2";
+     cout<<existe(s2)<<endl;
+     cout<<existe(s1);
 
 }
 signed main(){
