@@ -23,6 +23,7 @@ vector<int> topSort(vector<vector<int>> &g, vector<int> & in){
       }
       return topo;
 }
+
 int bb(int x, vector<int> & arr){
     int pos = -1;
     int l = 0, r = arr.size()-1;
@@ -37,6 +38,7 @@ int bb(int x, vector<int> & arr){
     }
     return pos;
 }
+
 void solve(){
      int n; cin>>n; 
      vector<int> arr(n);
