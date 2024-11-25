@@ -1,0 +1,1 @@
+{"name":"Local: aho Corasick","url":"c:\\Users\\miguel\\Desktop\\Problems\\aho Corasick.cpp","tests":[{"id":1732456122206,"input":"gcat 5\nacc\natc\ncat\ngcg\nat","output":"cat \nat"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\miguel\\Desktop\\Problems\\aho Corasick.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: String Hashing","url":"c:\\Users\\miguel\\Desktop\\Problems\\String Hashing.cpp","tests":[{"id":1732417348914,"input":"abba\n6\n0 1\n3 4\n1 2\n2 3\n0 2\n2 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\miguel\\Desktop\\Problems\\String Hashing.cpp","group":"local","local":true}
