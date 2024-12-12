@@ -1,0 +1,1 @@
+{"name":"Local: Suffixes","url":"c:\\Users\\miguel\\Desktop\\Problems\\Suffixes.cpp","tests":[{"id":1732909578032,"input":"4\nvaca\nbaca\nhola\nabola\n6\na 1\na 3\na 4\na 5\nlola 2\nahaca 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\miguel\\Desktop\\Problems\\Suffixes.cpp","group":"local","local":true}

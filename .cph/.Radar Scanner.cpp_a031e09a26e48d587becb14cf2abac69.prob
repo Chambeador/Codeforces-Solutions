@@ -1,0 +1,1 @@
+{"name":"Local: Radar Scanner","url":"c:\\Users\\miguel\\Desktop\\Problems\\Radar Scanner.cpp","tests":[{"id":1733158294000,"input":"1\n2\n2 2 3 3\n4 4 5 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\miguel\\Desktop\\Problems\\Radar Scanner.cpp","group":"local","local":true}

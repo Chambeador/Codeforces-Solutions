@@ -1,0 +1,1 @@
+{"name":"Local: Graham Scam","url":"c:\\Users\\miguel\\Desktop\\Problems\\Graham Scam.cpp","tests":[{"id":1733191347630,"input":"3\n-4 4 4 4 0 8\n0 2 0 4 2 2\n0 4 -4 8 4 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\miguel\\Desktop\\Problems\\Graham Scam.cpp","group":"local","local":true}
